@@ -15,5 +15,13 @@ learning materials about how to squeeze the last drop of performance from the ma
 **course videos**: [YouTube](https://www.youtube.com/watch?v=2tzdkC6IDbo&list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
 
 
+## Books
+### Performance Analysis and Tuning on Modern CPUs
+**github repo**: https://github.com/dendibakh/perf-book/
+
+**author website**: https://easyperf.net
+
+**download link**: [2nd Edition](https://github.com/dendibakh/perf-book/releases/tag/2.0_release)  [1st Edition](https://github.com/dendibakh/perf-book/releases/tag/FirstEdition)
+
 ## Misc
-**Google Performance Hints**: https://abseil.io/fast/hints.html
+**Google Performance Hints**(by Jeff Dean & Sanjay Ghemawat): https://abseil.io/fast/hints.html

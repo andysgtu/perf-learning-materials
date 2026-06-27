@@ -16,7 +16,7 @@ learning materials about how to squeeze the last drop of performance out of the 
 
 
 ## Books
-### Performance Analysis and Tuning on Modern CPUs
+### Performance Analysis and Tuning on Modern CPUs (by Denis Bakhvalov)
 **github repo**:    https://github.com/dendibakh/perf-book/
 
 **author website**: https://easyperf.net
@@ -27,6 +27,7 @@ learning materials about how to squeeze the last drop of performance out of the 
 ### Google Performance Hints (by Jeff Dean & Sanjay Ghemawat)
 **official link**:  https://abseil.io/fast/hints.html
 
-### **Fastcode** An open-source community dedicated to advancing software performance engineering
+### Fastcode: An open-source community dedicated to advancing software performance engineering
 **official website**: https://fastcode.org/
+
 **seminar videos**:   [YouTube](https://www.youtube.com/@FastcodeOSE)

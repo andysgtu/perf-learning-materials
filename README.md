@@ -1,5 +1,5 @@
-# perf-learning-materials
-learning materials about how to squeeze the last drop of performance from the machine
+# learning materials for performance optimization 
+learning materials about how to squeeze the last drop of performance out of the machine
 
 ## Courses
 ### MIT 6.172 2018 Fall Course: Performance Engineering of Software Systems 

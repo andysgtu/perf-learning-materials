@@ -5,6 +5,8 @@ learning materials about how to squeeze the last drop of performance out of the 
 ### MIT 6.172 Course: Performance Engineering of Software Systems 
 **official website**: https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
 
+**Learning Stuff**: [Quizzes](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/quizzes/)  [Assignments](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/assignments/)
+
 **course videos**:    [YouTube Fall 2018](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf) [YouTube Fall 2010](https://www.youtube.com/watch?v=JzpkXLH9zLQ&list=PLD2AE32F507F10481) [bilibili](https://www.bilibili.com/video/BV1heL96CEYA/)
 
 ### Perf-Ninjia
